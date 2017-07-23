@@ -8,9 +8,6 @@ g++ -std=c++11 -DDLIB_PNG_SUPPORT -DLIB_JPEG_SUPPORT -O3 -I .. ../dlib/all/sourc
 
 ## 如何运行程序
 ./a.out mmod_human_face_detector.bat 2001.png
-<<<<<<< HEAD
 
 ## 编译过程中比较容易出现的问题就是缺少x11
 sudo apt-get install libx11-dev
-=======
->>>>>>> 1a8f17c7f071f8ec02e66db799d0ab12b4ad6e03
